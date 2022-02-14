@@ -1,2 +1,3 @@
 # Red-vs.-Blue-Project
-![Network Topology  drawio 3](https://user-images.githubusercontent.com/89936268/153916652-49ba9e83-9279-4592-bb97-246f1309b4a7.png)
+# NETWORK TOPOLOGY 
+![Network Topology drawio](https://user-images.githubusercontent.com/89936268/153917768-a7f89f1a-cf49-44a3-8c95-bf086bd99c9d.png)
