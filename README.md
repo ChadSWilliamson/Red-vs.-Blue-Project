@@ -143,4 +143,5 @@ This vulnerability relates to malicious filenames, in which the end of filenames
 
    - In systems where file uploads are externally blocked, this vulnerability can be exploited to upload malicious files
    - Apache httpd versions 2.2.0 to 2.4.29 are vulnerable - upgrade to 2.2.46
-   - 
+
+
